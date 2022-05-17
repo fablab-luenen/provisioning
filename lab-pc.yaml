@@ -1,0 +1,11 @@
+---
+  - name: "Provision lab PCs"
+    hosts: localhost
+    tasks:
+    - name: Enable guest account
+      copy:
+        # this is the file lightdm-settings works with
+        dest: "/etc/lightdm/lightdm.conf"
+        content: |
+          [Seat:*]
+          allow-guest=true
