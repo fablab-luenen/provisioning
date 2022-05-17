@@ -3,6 +3,8 @@ sudo apt update
 echo "Installing Ansible ..."
 # We might switch to the pip version if this one is too old
 sudo apt install -y ansible
+echo "Ansible installed: "
+ansible --version
 
 echo "Creating desktop icon ..."
 # tbd
