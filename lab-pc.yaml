@@ -10,7 +10,37 @@
         content: |
           [Seat:*]
           allow-guest=true
+    
+    - name: Install Vscodium
+      community.general.flatpak:
+        name:
+          - com.vscodium.codium
+    - name: Install Gimp
+      community.general.flatpak:
+        name:
+          - org.gimp.GIMP
+    - name: Install Arduino IDE
+      community.general.flatpak:
+        name:
+          - cc.arduino.arduinoide
+    - name: Install Inkscape
+      community.general.flatpak:
+        name:
+          - org.inkscape.Inkscape
+    - name: Install Pitivi
+      community.general.flatpak:
+        name:
+          - org.pitivi.Pitivi
+    - name: Install Blender
+      community.general.flatpak:
+        name:
+          - org.blender.Blender
+    - name: Install Cura
+      community.general.flatpak:
+        name:
+          - com.ultimaker.cura
 
+    # Takes quite long
     - name: Copy default Firefox profile to guest session
       copy:
         dest: "/etc/guest-session/skel/.mozilla/firefox/"

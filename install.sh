@@ -6,9 +6,12 @@ echo "Updating apt repositories ..."
 sudo apt update
 echo "Installing Ansible ..."
 # We might switch to the pip version if this one is too old
-sudo apt install -y ansible #git
+sudo apt install -y python3-pip git
+sudo pip3 install ansible
 echo "Ansible installed: "
 ansible --version
+#echo "Installing Ansible community modules"
+#ansible-galaxy collection install community.general
 
 ### Install playbook
 

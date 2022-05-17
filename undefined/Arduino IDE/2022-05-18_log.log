@@ -1,0 +1,402 @@
+2022-05-18 00:24:00 Using browser-only version of superagent in non-browser environment
+2022-05-18 00:24:00 Configuring to accept webviews on '^.+\.webview\..+$' hostname.
+2022-05-18 00:24:00 root INFO Configuration directory URI: 'file:///home/fablab-admin/.theia'
+2022-05-18 00:24:00 root INFO Theia app listening on http://localhost:44365.
+2022-05-18 00:24:00 root WARN The local plugin referenced by local-dir:/home/fablab-admin/.arduinoIDE/extensions does not exist.
+2022-05-18 00:24:00 root WARN The local plugin referenced by local-dir:/home/fablab-admin/.arduinoIDE/plugins does not exist.
+2022-05-18 00:24:00 root WARN The local plugin referenced by local-dir:/home/fablab-admin/.arduinoProIDE/plugins does not exist.
+2022-05-18 00:24:00 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-18 00:24:00 root INFO Resolved "cortex-debug" to a VS Code extension "cortex-debug@0.3.10" with engines:
+2022-05-18 00:24:00 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-18 00:24:00 root INFO Resolved "vscode-arduino-tools" to a VS Code extension "vscode-arduino-tools@0.0.2-beta.2" with engines:
+2022-05-18 00:24:00 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-18 00:24:00 root INFO Resolved "vscode-builtin-cpp" to a VS Code extension "cpp@1.52.1" with engines:
+2022-05-18 00:24:00 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-18 00:24:00 root INFO Resolved "vscode-builtin-json" to a VS Code extension "json@1.46.1" with engines:
+2022-05-18 00:24:00 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-18 00:24:00 root INFO Resolved "vscode-builtin-json-language-features" to a VS Code extension "json-language-features@1.46.1" with engines:
+2022-05-18 00:24:00 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-18 00:24:00 root INFO Resolved "vscode-language-pack-de" to a VS Code extension "vscode-language-pack-de@1.53.2" with engines:
+2022-05-18 00:24:00 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-18 00:24:00 root INFO Resolved "vscode-language-pack-fr" to a VS Code extension "vscode-language-pack-fr@1.53.2" with engines:
+2022-05-18 00:24:00 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-18 00:24:00 root INFO Resolved "vscode-language-pack-ja" to a VS Code extension "vscode-language-pack-ja@1.53.2" with engines:
+2022-05-18 00:24:00 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-18 00:24:00 root INFO Resolved "vscode-language-pack-nl" to a VS Code extension "vscode-language-pack-nl@1.48.3" with engines:
+2022-05-18 00:24:00 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-18 00:24:00 root INFO Resolved "vscode-language-pack-tr" to a VS Code extension "vscode-language-pack-tr@1.53.2" with engines:
+2022-05-18 00:24:00 root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-05-18 00:24:00 root INFO Resolved "vscode-language-pack-zh-hans" to a VS Code extension "vscode-language-pack-zh-hans@1.53.2" with engines:
+2022-05-18 00:24:00 root INFO Deploying backend plugin "cortex-debug@0.3.10" from "/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/plugins/cortex-debug/extension/dist/extension"
+2022-05-18 00:24:00 root INFO Deploying backend plugin "vscode-arduino-tools@0.0.2-beta.2" from "/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle"
+2022-05-18 00:24:00 root INFO Deploying backend plugin "cpp@1.52.1" from "/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/plugins/vscode-builtin-cpp/extension"
+2022-05-18 00:24:00 root INFO Deploying backend plugin "json@1.46.1" from "/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/plugins/vscode-builtin-json/extension"
+2022-05-18 00:24:00 root INFO Deploying backend plugin "json-language-features@1.46.1" from "/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain"
+2022-05-18 00:24:00 root INFO Deploying backend plugin "vscode-language-pack-de@1.53.2" from "/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/plugins/vscode-language-pack-de/extension"
+2022-05-18 00:24:00 root INFO Deploying backend plugin "vscode-language-pack-fr@1.53.2" from "/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/plugins/vscode-language-pack-fr/extension"
+2022-05-18 00:24:00 daemon INFO Starting daemon from /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/arduino-ide-extension/build/arduino-cli...
+2022-05-18 00:24:00 root WARN Backend ConfigServiceImpl.onStart is slow, took: 208.9 ms
+2022-05-18 00:24:00 root INFO Deploying backend plugin "vscode-language-pack-ja@1.53.2" from "/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/plugins/vscode-language-pack-ja/extension"
+2022-05-18 00:24:00 daemon INFO Using config file: /home/fablab-admin/.arduinoIDE/arduino-cli.yaml
+2022-05-18 00:24:00 daemon INFO arduino-cli version 0.21.0
+2022-05-18 00:24:00 daemon INFO Executing `arduino-cli daemon`
+2022-05-18 00:24:00 daemon INFO Setting up Prometheus metrics on :9090/metrics
+2022-05-18 00:24:00 daemon INFO {"IP":"127.0.0.1","Port":"32839"}
+2022-05-18 00:24:00 daemon INFO Daemon is running.
+2022-05-18 00:24:00 root WARN Backend AuthenticationServiceImpl.onStart is slow, took: 104.6 ms
+2022-05-18 00:24:00 root INFO Deploying backend plugin "vscode-language-pack-nl@1.48.3" from "/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/plugins/vscode-language-pack-nl/extension"
+2022-05-18 00:24:00 root INFO Deploying backend plugin "vscode-language-pack-tr@1.53.2" from "/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/plugins/vscode-language-pack-tr/extension"
+2022-05-18 00:24:00 root INFO Deploying backend plugin "vscode-language-pack-zh-hans@1.53.2" from "/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/plugins/vscode-language-pack-zh-hans/extension"
+2022-05-18 00:24:00 root INFO Deploy plugins list took: 599.4 ms
+2022-05-18 00:24:02 daemon INFO Checking if CLI is Bundled into the IDE
+2022-05-18 00:24:02 daemon INFO Adding libraries dir [dir: /home/fablab-admin/Arduino/libraries, location: user]
+2022-05-18 00:24:02 daemon INFO URL: https://downloads.arduino.cc/packages/package_index.json
+2022-05-18 00:24:02 daemon INFO Updating index [url: https://downloads.arduino.cc/packages/package_index.json]
+2022-05-18 00:24:02 root INFO Git askpass helper is listening on http://127.0.0.1:46251.
+2022-05-18 00:24:02 root INFO Using Git [2.25.1] from the PATH. (/usr/bin/git)
+2022-05-18 00:24:02 root WARN Frontend s.configure is slow, took: 310.7 ms
+2022-05-18 00:24:02 root WARN Frontend commands.onStart is slow, took: 102.2 ms
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/body-parser
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/cookie
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/dompurify
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/express
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/fs-extra
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/lodash.debounce
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/lodash.throttle
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/markdown-it
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/react
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/react-dom
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/react-virtualized
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/route-parser
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/safer-buffer
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/ws
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/yargs
+2022-05-18 00:24:02 root WARN Failed to resolve module: @theia/monaco
+2022-05-18 00:24:02 root WARN Failed to resolve module: @theia/editor
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/multer
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/rimraf
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/tar-fs
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/uuid
+2022-05-18 00:24:02 root WARN Failed to resolve module: @theia/navigator
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/p-queue
+2022-05-18 00:24:02 root WARN Failed to resolve module: @theia/preferences
+2022-05-18 00:24:02 root WARN Failed to resolve module: @theia/editor-preview
+2022-05-18 00:24:02 root WARN Failed to resolve module: @theia/keymaps
+2022-05-18 00:24:02 root WARN Failed to resolve module: @theia/messages
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/diff
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/mime
+2022-05-18 00:24:02 root WARN Failed to resolve module: filenamify
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/request
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/atob
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/auth0-js
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/btoa
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/dateformat
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/deepmerge
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/glob
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/google-protobuf
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/js-yaml
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/keytar
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/ncp
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/node-fetch
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/ps-tree
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/react-select
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/react-tabs
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/temp
+2022-05-18 00:24:02 root WARN Failed to resolve module: @types/which
+2022-05-18 00:24:03 root INFO Updating index: package_index.json completed.
+2022-05-18 00:24:03 root INFO Updating index: package_index.json.sig completed.
+2022-05-18 00:24:03 daemon INFO Checking signature [error: opening signature file: open /tmp/926050286.sig: no such file or directory, index: /tmp/926050286, signaturefile: /tmp/926050286.sig]
+2022-05-18 00:24:03 daemon INFO Updating libraries index
+2022-05-18 00:24:04 root INFO Updating index: library_index.json.gz completed.
+2022-05-18 00:24:04 root INFO Updating index: library_index.json.sig completed.
+2022-05-18 00:24:04 daemon INFO Checking signature [index: /home/fablab-admin/.arduino15/package_index.json, signaturefile: /home/fablab-admin/.arduino15/package_index.json.sig, trusted: true]
+2022-05-18 00:24:04 daemon INFO Loading hardware from: /home/fablab-admin/.arduino15/packages
+2022-05-18 00:24:04 root ERROR d.registerSchemas is taking more than 500.0 ms, new schemas are ignored.
+2022-05-18 00:24:04 root INFO Downloaded 
+2022-05-18 00:24:04 root INFO Completed 
+2022-05-18 00:24:04 daemon INFO Installing tool [tool: Version: 5.8-arduino11 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu]]
+2022-05-18 00:24:04 daemon INFO Tool installed [tool: Version: 5.8-arduino11 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu]]
+2022-05-18 00:24:04 root INFO Completed 
+2022-05-18 00:24:05 root INFO Downloaded 
+2022-05-18 00:24:05 root INFO Completed 
+2022-05-18 00:24:05 daemon INFO Installing tool [tool: Version: 1.3.2 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:05 daemon INFO Tool installed [tool: Version: 1.3.2 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:05 root INFO Completed 
+2022-05-18 00:24:06 root INFO Downloaded 
+2022-05-18 00:24:06 root INFO Completed 
+2022-05-18 00:24:06 daemon INFO Installing tool [tool: Version: 1.0.5 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:06 daemon INFO Tool installed [tool: Version: 1.0.5 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:06 root INFO Completed 
+2022-05-18 00:24:06 daemon INFO Installing tool [tool: Version: 0.9.1 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:06 root INFO Downloaded 
+2022-05-18 00:24:06 root INFO Completed 
+2022-05-18 00:24:06 daemon INFO Tool installed [tool: Version: 0.9.1 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:06 daemon INFO Loading hardware from: /home/fablab-admin/.arduino15/packages
+2022-05-18 00:24:06 daemon INFO Loading package builtin from: /home/fablab-admin/.arduino15/packages/builtin
+2022-05-18 00:24:06 daemon INFO Checking existence of 'tools' path: /home/fablab-admin/.arduino15/packages/builtin/tools
+2022-05-18 00:24:06 daemon INFO Loading tools from dir: /home/fablab-admin/.arduino15/packages/builtin/tools
+2022-05-18 00:24:06 daemon INFO Loaded tool [tool: Version: 5.8-arduino11 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu]]
+2022-05-18 00:24:06 daemon INFO Loaded tool [tool: Version: 1.0.5 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:06 root INFO Completed 
+2022-05-18 00:24:06 daemon INFO Loaded tool [tool: Version: 1.3.2 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:06 daemon INFO Loaded tool [tool: Version: 0.9.1 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:07 daemon INFO starting discovery builtin:serial-discovery process
+2022-05-18 00:24:07 daemon INFO starting discovery builtin:mdns-discovery process
+2022-05-18 00:24:07 daemon INFO started discovery builtin:serial-discovery process
+2022-05-18 00:24:07 daemon INFO sending command HELLO 1 "arduino-cli 0.21.0" to discovery builtin:serial-discovery
+2022-05-18 00:24:07 daemon INFO started discovery builtin:mdns-discovery process
+2022-05-18 00:24:07 daemon INFO sending command HELLO 1 "arduino-cli 0.21.0" to discovery builtin:mdns-discovery
+2022-05-18 00:24:07 daemon INFO from discovery builtin:serial-discovery received message type: hello, Nachricht: OK, Protokoll Version: 1
+2022-05-18 00:24:07 daemon INFO from discovery builtin:mdns-discovery received message type: hello, Nachricht: OK, Protokoll Version: 1
+2022-05-18 00:24:07 daemon INFO sending command START_SYNC to discovery builtin:mdns-discovery
+2022-05-18 00:24:07 daemon INFO sending command START_SYNC to discovery builtin:serial-discovery
+2022-05-18 00:24:07 daemon INFO from discovery builtin:mdns-discovery received message type: start_sync, Nachricht: OK
+2022-05-18 00:24:07 daemon INFO from discovery builtin:serial-discovery received message type: start_sync, Nachricht: OK
+2022-05-18 00:24:07 root WARN Frontend i.onStart is slow, took: 4668.9 ms
+2022-05-18 00:24:07 root WARN Frontend w.onStart is slow, took: 495.0 ms
+2022-05-18 00:24:08 root INFO Changed application state from 'init' to 'started_contributions'.
+2022-05-18 00:24:08 root INFO >>> Starting boards package installation...
+2022-05-18 00:24:08 root INFO board watch ended
+2022-05-18 00:24:08 daemon INFO boards watcher interrupted by client
+2022-05-18 00:24:08 daemon INFO sending command STOP to discovery builtin:mdns-discovery
+2022-05-18 00:24:08 daemon INFO sending command STOP to discovery builtin:serial-discovery
+2022-05-18 00:24:08 daemon INFO from discovery builtin:mdns-discovery received message type: stop, Nachricht: OK
+2022-05-18 00:24:08 daemon INFO from discovery builtin:serial-discovery received message type: stop, Nachricht: OK
+2022-05-18 00:24:08 root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2022-05-18 00:24:08 root INFO >>> Restoring the layout state...
+2022-05-18 00:24:08 root INFO <<< Nothing to restore.
+2022-05-18 00:24:08 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608) starting instance
+2022-05-18 00:24:08 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8] Waiting for backend deployment took: 339.0 ms [Finished 7.702 s after frontend start]
+2022-05-18 00:24:09 root INFO Changed application state from 'attached_shell' to 'initialized_layout'.
+2022-05-18 00:24:09 root INFO Finished loading frontend application after 8.368 seconds
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8] Sync of 11 plugins took: 1182.3 ms [Finished 8.884 s after frontend start]
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][marus25.cortex-debug]: Loaded contributions.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][arduino.vscode-arduino-tools]: Loaded contributions.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][vscode.cpp]: Loaded contributions.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][vscode.json]: Loaded contributions.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][vscode.json-language-features]: Loaded contributions.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][ms-ceintl.vscode-language-pack-de]: Loaded contributions.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][ms-ceintl.vscode-language-pack-fr]: Loaded contributions.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][ms-ceintl.vscode-language-pack-ja]: Loaded contributions.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][ms-ceintl.vscode-language-pack-nl]: Loaded contributions.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][ms-ceintl.vscode-language-pack-tr]: Loaded contributions.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][ms-ceintl.vscode-language-pack-zh-hans]: Loaded contributions.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8] Load contributions of 11 plugins took: 54.9 ms [Finished 8.939 s after frontend start]
+2022-05-18 00:24:10 root WARN 'cpp' language is remapped from 'source.cpp.embedded.macro' to 'source.cpp' scope
+2022-05-18 00:24:10 root WARN a registered grammar configuration for 'cpp' language is overridden
+2022-05-18 00:24:10 root INFO Changed application state from 'initialized_layout' to 'ready'.
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): PluginManagerExtImpl/init()
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): initializing(cortex-debug@0.3.10 with /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] Debugger contribution has been registered: cortex-debug
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): initializing(vscode-arduino-tools@0.0.2-beta.2 with /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): initializing(cpp@1.52.1 with /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): initializing(json@1.46.1 with /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): initializing(json-language-features@1.46.1 with /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): initializing(vscode-language-pack-de@1.53.2 with /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): initializing(vscode-language-pack-fr@1.53.2 with /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): initializing(vscode-language-pack-ja@1.53.2 with /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): initializing(vscode-language-pack-nl@1.48.3 with /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): initializing(vscode-language-pack-tr@1.53.2 with /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): initializing(vscode-language-pack-zh-hans@1.53.2 with /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-05-18 00:24:10 root INFO [hosted-plugin: 39608] PLUGIN_HOST(39608): PluginManagerExtImpl/loadPlugin(/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain)
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][marus25.cortex-debug]: Started plugin.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][arduino.vscode-arduino-tools]: Started plugin.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][vscode.cpp]: Started plugin.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][vscode.json]: Started plugin.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][vscode.json-language-features]: Started plugin.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][ms-ceintl.vscode-language-pack-de]: Started plugin.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][ms-ceintl.vscode-language-pack-fr]: Started plugin.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][ms-ceintl.vscode-language-pack-ja]: Started plugin.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][ms-ceintl.vscode-language-pack-nl]: Started plugin.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][ms-ceintl.vscode-language-pack-tr]: Started plugin.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8][ms-ceintl.vscode-language-pack-zh-hans]: Started plugin.
+2022-05-18 00:24:10 root INFO [c25116c2-6a98-467b-af77-bf95b0e015b8] Start of 11 plugins took: 1198.8 ms [Finished 10.155 s after frontend start]
+2022-05-18 00:24:19 daemon INFO Installing tool [tool: Version: 7.3.0-atmel3.6.1-arduino7 Systems: [OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: x86_64-apple-darwin14, OS: i686-mingw32, OS: i686-linux-gnu, OS: x86_64-linux-gnu]]
+2022-05-18 00:24:31 daemon INFO Tool installed [tool: Version: 7.3.0-atmel3.6.1-arduino7 Systems: [OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: x86_64-apple-darwin14, OS: i686-mingw32, OS: i686-linux-gnu, OS: x86_64-linux-gnu]]
+2022-05-18 00:24:31 daemon INFO Installing tool [tool: Version: 6.3.0-arduino17 Systems: [OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: x86_64-apple-darwin12, OS: x86_64-linux-gnu, OS: i686-linux-gnu, OS: i686-mingw32]]
+2022-05-18 00:24:31 daemon INFO Tool installed [tool: Version: 6.3.0-arduino17 Systems: [OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: x86_64-apple-darwin12, OS: x86_64-linux-gnu, OS: i686-linux-gnu, OS: i686-mingw32]]
+2022-05-18 00:24:31 daemon INFO Installing tool [tool: Version: 1.3.0 Systems: [OS: i686-linux-gnu, OS: x86_64-linux-gnu, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: i386-apple-darwin11, OS: i686-mingw32]]
+2022-05-18 00:24:31 daemon INFO Tool installed [tool: Version: 1.3.0 Systems: [OS: i686-linux-gnu, OS: x86_64-linux-gnu, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: i386-apple-darwin11, OS: i686-mingw32]]
+2022-05-18 00:24:31 daemon INFO Installing platform [platform: {ID:"arduino:avr",Installed:"1.8.5",Latest:"1.8.5",Name:"Arduino AVR Boards"}]
+2022-05-18 00:24:33 daemon INFO Running post_install script [platform: {ID:"arduino:avr",Installed:"1.8.5",Latest:"1.8.5",Name:"Arduino AVR Boards"}]
+2022-05-18 00:24:33 daemon INFO Platform installed [platform: {ID:"arduino:avr",Installed:"1.8.5",Latest:"1.8.5",Name:"Arduino AVR Boards"}]
+2022-05-18 00:24:33 daemon INFO sending command QUIT to discovery builtin:mdns-discovery
+2022-05-18 00:24:33 daemon INFO sending command QUIT to discovery builtin:serial-discovery
+2022-05-18 00:24:33 daemon INFO from discovery builtin:mdns-discovery received message type: quit, Nachricht: OK
+2022-05-18 00:24:33 daemon INFO killing discovery builtin:mdns-discovery process
+2022-05-18 00:24:33 daemon INFO from discovery builtin:serial-discovery received message type: quit, Nachricht: OK
+2022-05-18 00:24:33 daemon INFO killing discovery builtin:serial-discovery process
+2022-05-18 00:24:33 daemon INFO killed discovery builtin:serial-discovery process
+2022-05-18 00:24:33 daemon INFO killed discovery builtin:mdns-discovery process
+2022-05-18 00:24:33 daemon INFO Checking signature [index: /home/fablab-admin/.arduino15/package_index.json, signaturefile: /home/fablab-admin/.arduino15/package_index.json.sig, trusted: true]
+2022-05-18 00:24:33 daemon INFO Loading hardware from: /home/fablab-admin/.arduino15/packages
+2022-05-18 00:24:33 daemon INFO Loading package arduino from: /home/fablab-admin/.arduino15/packages/arduino/hardware
+2022-05-18 00:24:33 daemon INFO Checking signature [error: opening signature file: open /home/fablab-admin/.arduino15/packages/arduino/hardware/avr/1.8.5/installed.json.sig: no such file or directory, index: /home/fablab-admin/.arduino15/packages/arduino/hardware/avr/1.8.5/installed.json, signaturefile: /home/fablab-admin/.arduino15/packages/arduino/hardware/avr/1.8.5/installed.json.sig]
+2022-05-18 00:24:33 daemon INFO Adding monitor tool [protocol: serial, tool: builtin:serial-monitor]
+2022-05-18 00:24:33 daemon INFO Loaded platform [platform: {ID:"arduino:avr",Installed:"1.8.5",Latest:"1.8.5",Name:"Arduino AVR Boards"}]
+2022-05-18 00:24:33 daemon INFO Checking existence of 'tools' path: /home/fablab-admin/.arduino15/packages/arduino/tools
+2022-05-18 00:24:33 daemon INFO Loading tools from dir: /home/fablab-admin/.arduino15/packages/arduino/tools
+2022-05-18 00:24:33 daemon INFO Loaded tool [tool: Version: 1.3.0 Systems: [OS: i686-linux-gnu, OS: x86_64-linux-gnu, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: i386-apple-darwin11, OS: i686-mingw32]]
+2022-05-18 00:24:33 daemon INFO Loaded tool [tool: Version: 7.3.0-atmel3.6.1-arduino7 Systems: [OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: x86_64-apple-darwin14, OS: i686-mingw32, OS: i686-linux-gnu, OS: x86_64-linux-gnu]]
+2022-05-18 00:24:33 daemon INFO Loaded tool [tool: Version: 6.3.0-arduino17 Systems: [OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: x86_64-apple-darwin12, OS: x86_64-linux-gnu, OS: i686-linux-gnu, OS: i686-mingw32]]
+2022-05-18 00:24:33 daemon INFO Loading package builtin from: /home/fablab-admin/.arduino15/packages/builtin
+2022-05-18 00:24:33 daemon INFO Checking existence of 'tools' path: /home/fablab-admin/.arduino15/packages/builtin/tools
+2022-05-18 00:24:33 daemon INFO Loading tools from dir: /home/fablab-admin/.arduino15/packages/builtin/tools
+2022-05-18 00:24:33 daemon INFO Loaded tool [tool: Version: 5.8-arduino11 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu]]
+2022-05-18 00:24:33 daemon INFO Loaded tool [tool: Version: 1.0.5 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:33 daemon INFO Loaded tool [tool: Version: 1.3.2 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:33 daemon INFO Loaded tool [tool: Version: 0.9.1 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:33 daemon INFO Adding libraries dir [dir: /home/fablab-admin/.arduino15/packages/arduino/hardware/avr/1.8.5/libraries, location: platform]
+2022-05-18 00:24:34 root ERROR Uncaught Exception: 
+2022-05-18 00:24:34 root ERROR Error: Implementation error. Neither 'download' nor 'task' is available.
+    at ClientReadableStreamImpl.<anonymous> (/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/arduino-ide-extension/lib/node/grpc-installable.js:15:23)
+    at ClientReadableStreamImpl.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:312:12)
+    at readableAddChunk (node:internal/streams/readable:287:9)
+    at ClientReadableStreamImpl.Readable.push (node:internal/streams/readable:226:10)
+    at Object.onReceiveMessage (/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@grpc/grpc-js/build/src/client.js:321:24)
+    at Object.onReceiveMessage (/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:291:178)
+    at /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@grpc/grpc-js/build/src/call-stream.js:202:74
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+2022-05-18 00:24:34 daemon INFO starting discovery builtin:serial-discovery process
+2022-05-18 00:24:34 daemon INFO starting discovery builtin:mdns-discovery process
+2022-05-18 00:24:34 daemon INFO started discovery builtin:serial-discovery process
+2022-05-18 00:24:34 daemon INFO sending command HELLO 1 "arduino-cli 0.21.0" to discovery builtin:serial-discovery
+2022-05-18 00:24:34 daemon INFO from discovery builtin:serial-discovery received message type: hello, Nachricht: OK, Protokoll Version: 1
+2022-05-18 00:24:34 daemon INFO started discovery builtin:mdns-discovery process
+2022-05-18 00:24:34 daemon INFO sending command HELLO 1 "arduino-cli 0.21.0" to discovery builtin:mdns-discovery
+2022-05-18 00:24:34 root INFO <<< Boards package installation done.
+2022-05-18 00:24:34 daemon INFO from discovery builtin:mdns-discovery received message type: hello, Nachricht: OK, Protokoll Version: 1
+2022-05-18 00:24:34 daemon INFO sending command START_SYNC to discovery builtin:serial-discovery
+2022-05-18 00:24:34 daemon INFO sending command START_SYNC to discovery builtin:mdns-discovery
+2022-05-18 00:24:34 daemon INFO from discovery builtin:mdns-discovery received message type: start_sync, Nachricht: OK
+2022-05-18 00:24:34 daemon INFO from discovery builtin:serial-discovery received message type: start_sync, Nachricht: OK
+2022-05-18 00:24:34 root INFO Boards package installed: 
+2022-05-18 00:24:34 root INFO >>> Starting library package installation...
+2022-05-18 00:24:34 daemon INFO boards watcher interrupted by client
+2022-05-18 00:24:34 daemon INFO sending command STOP to discovery builtin:serial-discovery
+2022-05-18 00:24:34 daemon INFO sending command STOP to discovery builtin:mdns-discovery
+2022-05-18 00:24:34 daemon INFO from discovery builtin:serial-discovery received message type: stop, Nachricht: OK
+2022-05-18 00:24:34 daemon INFO from discovery builtin:mdns-discovery received message type: stop, Nachricht: OK
+2022-05-18 00:24:34 root INFO board watch ended
+2022-05-18 00:24:34 daemon INFO Installing library [library: {Author:"Arduino, SparkFun",Version:"1.2.4",Dependencies:[],Maintainer:"Arduino <info@arduino.cc>",Sentence:"Enables reading and writing on SD cards.",Paragraph:"Once an SD memory card is connected to the SPI interface of the Arduino or Genuino board you can create files and read/write on them. You can also move through directories on the SD card.",Website:"https://www.arduino.cc/en/Reference/SD",Category:"Data Storage",Architectures:["*"],Types:["Arduino"],Resource:{URL:"https://downloads.arduino.cc/libraries/github.com/arduino-libraries/SD-1.2.4.zip",ArchiveFileName:"SD-1.2.4.zip",Checksum:"SHA-256:82287e653b42949ec05c32652ab34fd26e185b4d1853d3a249c8e53f57b3b811",Size:65005,CachePath:"libraries"},License:"",ProvidesIncludes:null}]
+2022-05-18 00:24:34 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-396454903/SD-1.2.4/examples: no such file or directory
+2022-05-18 00:24:34 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-396454903/SD-1.2.4/examples: no such file or directory
+2022-05-18 00:24:34 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-396454903/SD-1.2.4/examples: no such file or directory
+2022-05-18 00:24:34 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-396454903/SD-1.2.4/examples: no such file or directory
+2022-05-18 00:24:34 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-396454903/SD-1.2.4/examples: no such file or directory
+2022-05-18 00:24:34 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-396454903/SD-1.2.4/examples: no such file or directory
+2022-05-18 00:24:34 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-396454903/SD-1.2.4/examples: no such file or directory
+2022-05-18 00:24:34 daemon INFO Installing library [library: {Author:"Arduino, Adafruit",Version:"1.0.7",Dependencies:[],Maintainer:"Arduino <info@arduino.cc>",Sentence:"Allows communication with alphanumerical liquid crystal displays (LCDs).",Paragraph:"This library allows an Arduino/Genuino board to control LiquidCrystal displays (LCDs) based on the Hitachi HD44780 (or a compatible) chipset, which is found on most text-based LCDs. The library works with in either 4 or 8 bit mode (i.e. using 4 or 8 data lines in addition to the rs, enable, and, optionally, the rw control lines).",Website:"https://www.arduino.cc/en/Reference/LiquidCrystal",Category:"Display",Architectures:["*"],Types:["Arduino"],Resource:{URL:"https://downloads.arduino.cc/libraries/github.com/arduino-libraries/LiquidCrystal-1.0.7.zip",ArchiveFileName:"LiquidCrystal-1.0.7.zip",Checksum:"SHA-256:f7b14c42afbbdcfbe66073e6ef1e4cbaa03f5d11f52f9ab91c916b6ccac38434",Size:19947,CachePath:"libraries"},License:"",ProvidesIncludes:null}]
+2022-05-18 00:24:34 daemon INFO Installing library [library: {Author:"Various (see AUTHORS file for details)",Version:"2.0.0",Dependencies:[],Maintainer:"Paul Stoffregen <paul@pjrc.com>, Arduino <info@arduino.cc>",Sentence:"Enables network connection (local and Internet) using the Arduino Ethernet Board or Shield.",Paragraph:"With this library you can use the Arduino Ethernet (shield or board) to connect to Internet. The library provides both Client and server functionalities. The library permits you to connect to a local network also with DHCP and to resolve DNS.",Website:"https://www.arduino.cc/en/Reference/Ethernet",Category:"Communication",Architectures:["*"],Types:["Arduino"],Resource:{URL:"https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Ethernet-2.0.0.zip",ArchiveFileName:"Ethernet-2.0.0.zip",Checksum:"SHA-256:41849539ee363a14d0bcc4b20f8feedc80e16255d77c6ab6d3e4ad766990e7be",Size:63457,CachePath:"libraries"},License:"",ProvidesIncludes:["Ethernet.h"]}]
+2022-05-18 00:24:34 daemon INFO Installing library [library: {Author:"Arduino",Version:"1.0.4",Dependencies:[],Maintainer:"Arduino <info@arduino.cc>",Sentence:"Allows an Arduino board with USB capabilities to act as a Keyboard.",Paragraph:"This library plugs on the HID library. It can be used with or without other HID-based libraries (Mouse, Gamepad etc)",Website:"https://www.arduino.cc/reference/en/language/functions/usb/keyboard/",Category:"Device Control",Architectures:["avr","samd","sam"],Types:["Arduino"],Resource:{URL:"https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Keyboard-1.0.4.zip",ArchiveFileName:"Keyboard-1.0.4.zip",Checksum:"SHA-256:c7aab21dc96e573251f4945160d5c6e38607b9b2da037b66c78189db03ff14bc",Size:23031,CachePath:"libraries"},License:"",ProvidesIncludes:null}]
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-645225706/LiquidCrystal-1.0.7/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-645225706/LiquidCrystal-1.0.7/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-645225706/LiquidCrystal-1.0.7/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-645225706/LiquidCrystal-1.0.7/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-645225706/LiquidCrystal-1.0.7/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-645225706/LiquidCrystal-1.0.7/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-645225706/LiquidCrystal-1.0.7/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-645225706/LiquidCrystal-1.0.7/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-645225706/LiquidCrystal-1.0.7/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-645225706/LiquidCrystal-1.0.7/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-105113409/Ethernet-2.0.0/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-105113409/Ethernet-2.0.0/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-105113409/Ethernet-2.0.0/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-105113409/Ethernet-2.0.0/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-105113409/Ethernet-2.0.0/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-105113409/Ethernet-2.0.0/examples: no such file or directory
+2022-05-18 00:24:35 daemon INFO Installing library [library: {Author:"Arduino",Version:"1.0.1",Dependencies:[],Maintainer:"Arduino <info@arduino.cc>",Sentence:"Allows an Arduino/Genuino board with USB capabilites to act as a Mouse.",Paragraph:"This library plugs on the HID library. Can be used with or without other HID-based libraries (Keyboard, Gamepad etc)",Website:"https://www.arduino.cc/en/Reference/Mouse",Category:"Device Control",Architectures:["*"],Types:["Arduino"],Resource:{URL:"https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Mouse-1.0.1.zip",ArchiveFileName:"Mouse-1.0.1.zip",Checksum:"SHA-256:feb363a5431d06535612403344740330988452bdca41609d8f19d4811f25d976",Size:4291,CachePath:"libraries"},License:"",ProvidesIncludes:null}]
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-105113409/Ethernet-2.0.0/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-105113409/Ethernet-2.0.0/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-105113409/Ethernet-2.0.0/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-105113409/Ethernet-2.0.0/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-105113409/Ethernet-2.0.0/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-105113409/Ethernet-2.0.0/examples: no such file or directory
+2022-05-18 00:24:35 daemon INFO Installing library [library: {Author:"Firmata Developers",Version:"2.5.8",Dependencies:[],Maintainer:"https://github.com/firmata/arduino",Sentence:"Enables the communication with computer apps using a standard serial protocol. For all Arduino/Genuino boards.",Paragraph:"The Firmata library implements the Firmata protocol for communicating with software on the host computer. This allows you to write custom firmware without having to create your own protocol and objects for the programming environment that you are using.",Website:"https://github.com/firmata/arduino",Category:"Device Control",Architectures:["*"],Types:["Arduino"],Resource:{URL:"https://downloads.arduino.cc/libraries/github.com/firmata/Firmata-2.5.8.zip",ArchiveFileName:"Firmata-2.5.8.zip",Checksum:"SHA-256:1e3541f55558bd4961000a235f034586c248f3d1055503402f87f57829659810",Size:202488,CachePath:"libraries"},License:"",ProvidesIncludes:null}]
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-828282796/Keyboard-1.0.4/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-128878014/Firmata-2.5.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-128878014/Firmata-2.5.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-128878014/Firmata-2.5.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-128878014/Firmata-2.5.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-128878014/Firmata-2.5.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-128878014/Firmata-2.5.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-128878014/Firmata-2.5.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-128878014/Firmata-2.5.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-128878014/Firmata-2.5.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-128878014/Firmata-2.5.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-128878014/Firmata-2.5.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-128878014/Firmata-2.5.8/examples: no such file or directory
+2022-05-18 00:24:35 daemon INFO Installing library [library: {Author:"Michael Margolis, Arduino",Version:"1.1.8",Dependencies:[],Maintainer:"Arduino <info@arduino.cc>",Sentence:"Allows Arduino boards to control a variety of servo motors.",Paragraph:"This library can control a great number of servos.<br />It makes careful use of timers: the library can control 12 servos using only 1 timer.<br />On the Arduino Due you can control up to 60 servos.",Website:"https://www.arduino.cc/reference/en/libraries/servo/",Category:"Device Control",Architectures:["avr","megaavr","sam","samd","nrf52","stm32f4","mbed","mbed_nano","mbed_portenta","mbed_rp2040"],Types:["Arduino"],Resource:{URL:"https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Servo-1.1.8.zip",ArchiveFileName:"Servo-1.1.8.zip",Checksum:"SHA-256:418e1bb2e690357e37660f61cb26db6088edde15065975320fa5a3453ce78813",Size:128284,CachePath:"libraries"},License:"",ProvidesIncludes:null}]
+2022-05-18 00:24:35 daemon INFO Installing library [library: {Author:"Arduino",Version:"1.1.3",Dependencies:[],Maintainer:"Arduino <info@arduino.cc>",Sentence:"Allows Arduino boards to control a variety of stepper motors.",Paragraph:"This library allows you to control unipolar or bipolar stepper motors. To use it you will need a stepper motor, and the appropriate hardware to control it.",Website:"https://www.arduino.cc/en/Reference/Stepper",Category:"Device Control",Architectures:["*"],Types:["Arduino"],Resource:{URL:"https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Stepper-1.1.3.zip",ArchiveFileName:"Stepper-1.1.3.zip",Checksum:"SHA-256:85e91305a7c2a853ce9201d8261f150241be8c840d05a9adaff78412dcf66f7e",Size:10600,CachePath:"libraries"},License:"",ProvidesIncludes:null}]
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-332658181/Servo-1.1.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-332658181/Servo-1.1.8/examples: no such file or directory
+2022-05-18 00:24:35 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-098898336/Stepper-1.1.3/examples: no such file or directory
+2022-05-18 00:24:35 daemon INFO Installing library [library: {Author:"Arduino, Adafruit",Version:"1.0.6",Dependencies:[],Maintainer:"Arduino <info@arduino.cc>",Sentence:"Allows drawing text, images, and shapes on the Arduino TFT graphical display.",Paragraph:"This library is compatible with most of the TFT display based on the ST7735 chipset.",Website:"https://www.arduino.cc/en/Reference/TFTLibrary",Category:"Display",Architectures:["*"],Types:["Arduino","Retired"],Resource:{URL:"https://downloads.arduino.cc/libraries/github.com/arduino-libraries/TFT-1.0.6.zip",ArchiveFileName:"TFT-1.0.6.zip",Checksum:"SHA-256:00a4a29e43e06e5c22fe2294936784a69c94d13475d8624fa2239a1a6c6aa72b",Size:50189,CachePath:"libraries"},License:"",ProvidesIncludes:null}]
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-098898336/Stepper-1.1.3/examples: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-098898336/Stepper-1.1.3/examples: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-098898336/Stepper-1.1.3/examples: no such file or directory
+2022-05-18 00:24:36 daemon INFO Installing library [library: {Author:"Arduino",Version:"1.0.0",Dependencies:[{Name:"Ethernet",VersionConstraint:{}},{Name:"Firmata",VersionConstraint:{}},{Name:"Keyboard",VersionConstraint:{}},{Name:"LiquidCrystal",VersionConstraint:{}},{Name:"Mouse",VersionConstraint:{}},{Name:"SD",VersionConstraint:{}},{Name:"Servo",VersionConstraint:{}},{Name:"Stepper",VersionConstraint:{}},{Name:"TFT",VersionConstraint:{}}],Maintainer:"Arduino <info@arduino.cc>",Sentence:"Shell Arduino library to provide the standard built-in libraries",Paragraph:"The sole purpose of this library is to install the standard Arduino libraries which are typically included with the Arduino IDE.",Website:"https://github.com/arduino-libraries/Arduino_BuiltIn",Category:"Other",Architectures:["*"],Types:["Arduino"],Resource:{URL:"https://downloads.arduino.cc/libraries/github.com/arduino-libraries/Arduino_BuiltIn-1.0.0.zip",ArchiveFileName:"Arduino_BuiltIn-1.0.0.zip",Checksum:"SHA-256:b727cd1fa0ddd1b2177646d0f512c32ebbff1e14466a5ac4ad653f899c587f74",Size:4691,CachePath:"libraries"},License:"",ProvidesIncludes:null}]
+2022-05-18 00:24:36 daemon INFO sending command QUIT to discovery builtin:serial-discovery
+2022-05-18 00:24:36 daemon INFO sending command QUIT to discovery builtin:mdns-discovery
+2022-05-18 00:24:36 daemon INFO from discovery builtin:serial-discovery received message type: quit, Nachricht: OK
+2022-05-18 00:24:36 daemon INFO from discovery builtin:mdns-discovery received message type: quit, Nachricht: OK
+2022-05-18 00:24:36 daemon INFO killing discovery builtin:mdns-discovery process
+2022-05-18 00:24:36 daemon INFO killing discovery builtin:serial-discovery process
+2022-05-18 00:24:36 daemon INFO killed discovery builtin:serial-discovery process
+2022-05-18 00:24:36 daemon INFO killed discovery builtin:mdns-discovery process
+2022-05-18 00:24:36 daemon INFO Checking signature [index: /home/fablab-admin/.arduino15/package_index.json, signaturefile: /home/fablab-admin/.arduino15/package_index.json.sig, trusted: true]
+2022-05-18 00:24:36 daemon INFO Loading hardware from: /home/fablab-admin/.arduino15/packages
+2022-05-18 00:24:36 daemon INFO Loading package arduino from: /home/fablab-admin/.arduino15/packages/arduino/hardware
+2022-05-18 00:24:36 daemon INFO Checking signature [error: opening signature file: open /home/fablab-admin/.arduino15/packages/arduino/hardware/avr/1.8.5/installed.json.sig: no such file or directory, index: /home/fablab-admin/.arduino15/packages/arduino/hardware/avr/1.8.5/installed.json, signaturefile: /home/fablab-admin/.arduino15/packages/arduino/hardware/avr/1.8.5/installed.json.sig]
+2022-05-18 00:24:36 daemon INFO Adding monitor tool [protocol: serial, tool: builtin:serial-monitor]
+2022-05-18 00:24:36 daemon INFO Loaded platform [platform: {ID:"arduino:avr",Installed:"1.8.5",Latest:"1.8.5",Name:"Arduino AVR Boards"}]
+2022-05-18 00:24:36 daemon INFO Checking existence of 'tools' path: /home/fablab-admin/.arduino15/packages/arduino/tools
+2022-05-18 00:24:36 daemon INFO Loading tools from dir: /home/fablab-admin/.arduino15/packages/arduino/tools
+2022-05-18 00:24:36 daemon INFO Loaded tool [tool: Version: 1.3.0 Systems: [OS: i686-linux-gnu, OS: x86_64-linux-gnu, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: i386-apple-darwin11, OS: i686-mingw32]]
+2022-05-18 00:24:36 daemon INFO Loaded tool [tool: Version: 7.3.0-atmel3.6.1-arduino7 Systems: [OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: x86_64-apple-darwin14, OS: i686-mingw32, OS: i686-linux-gnu, OS: x86_64-linux-gnu]]
+2022-05-18 00:24:36 daemon INFO Loaded tool [tool: Version: 6.3.0-arduino17 Systems: [OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu, OS: x86_64-apple-darwin12, OS: x86_64-linux-gnu, OS: i686-linux-gnu, OS: i686-mingw32]]
+2022-05-18 00:24:36 daemon INFO Loading package builtin from: /home/fablab-admin/.arduino15/packages/builtin
+2022-05-18 00:24:36 daemon INFO Checking existence of 'tools' path: /home/fablab-admin/.arduino15/packages/builtin/tools
+2022-05-18 00:24:36 daemon INFO Loading tools from dir: /home/fablab-admin/.arduino15/packages/builtin/tools
+2022-05-18 00:24:36 daemon INFO Loaded tool [tool: Version: 5.8-arduino11 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: aarch64-linux-gnu]]
+2022-05-18 00:24:36 daemon INFO Loaded tool [tool: Version: 1.0.5 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:36 daemon INFO Loaded tool [tool: Version: 1.3.2 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:36 daemon INFO Loaded tool [tool: Version: 0.9.1 Systems: [OS: i686-pc-linux-gnu, OS: x86_64-pc-linux-gnu, OS: i686-mingw32, OS: x86_64-mingw32, OS: x86_64-apple-darwin, OS: arm-linux-gnueabihf, OS: arm64-linux-gnueabihf]]
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Arduino: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Arduino: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Arduino: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Arduino: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Arduino: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Arduino: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Esplora: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Esplora: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Esplora: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Esplora: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Esplora: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Esplora: no such file or directory
+2022-05-18 00:24:36 root ERROR Request loadSketch failed with error: 5 NOT_FOUND: Sketch kann nicht geöffnet werden: reading files: open /home/fablab-admin/Arduino/libraries/package-468648063/TFT-1.0.6/examples/Esplora: no such file or directory
+2022-05-18 00:24:36 root ERROR Uncaught Exception: 
+2022-05-18 00:24:36 root ERROR Error: Implementation error. Neither 'download' nor 'task' is available.
+    at ClientReadableStreamImpl.<anonymous> (/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/arduino-ide-extension/lib/node/grpc-installable.js:15:23)
+    at ClientReadableStreamImpl.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:312:12)
+    at readableAddChunk (node:internal/streams/readable:287:9)
+    at ClientReadableStreamImpl.Readable.push (node:internal/streams/readable:226:10)
+    at Object.onReceiveMessage (/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@grpc/grpc-js/build/src/client.js:321:24)
+    at Object.onReceiveMessage (/home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:291:178)
+    at /home/fablab-admin/Downloads/arduino-ide_2.0.0-rc6_Linux_64bit/resources/app/node_modules/@grpc/grpc-js/build/src/call-stream.js:202:74
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+2022-05-18 00:24:36 daemon INFO starting discovery builtin:serial-discovery process
+2022-05-18 00:24:36 daemon INFO starting discovery builtin:mdns-discovery process
+2022-05-18 00:24:36 daemon INFO started discovery builtin:serial-discovery process
+2022-05-18 00:24:36 daemon INFO sending command HELLO 1 "arduino-cli 0.21.0" to discovery builtin:serial-discovery
+2022-05-18 00:24:36 daemon INFO started discovery builtin:mdns-discovery process
+2022-05-18 00:24:36 daemon INFO sending command HELLO 1 "arduino-cli 0.21.0" to discovery builtin:mdns-discovery
+2022-05-18 00:24:36 daemon INFO from discovery builtin:serial-discovery received message type: hello, Nachricht: OK, Protokoll Version: 1
+2022-05-18 00:24:36 daemon INFO from discovery builtin:mdns-discovery received message type: hello, Nachricht: OK, Protokoll Version: 1
+2022-05-18 00:24:36 daemon INFO sending command START_SYNC to discovery builtin:serial-discovery
+2022-05-18 00:24:36 daemon INFO sending command START_SYNC to discovery builtin:mdns-discovery
+2022-05-18 00:24:36 daemon INFO from discovery builtin:mdns-discovery received message type: start_sync, Nachricht: OK
+2022-05-18 00:24:36 daemon INFO from discovery builtin:serial-discovery received message type: start_sync, Nachricht: OK
+2022-05-18 00:24:37 root INFO <<< Library package installation done.
