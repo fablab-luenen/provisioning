@@ -7,6 +7,6 @@ fi
 
 # I am aware of ansible-pull. It lacks the flexibility of allowing the editing of files without committing them - and this is pretty much all it does: 
 git pull
-ansible-playbook lab-pc.yaml
+sudo ansible-playbook lab-pc.yaml
 
 read -n 1 -s -r -p "Done! Press any key to continue" && echo

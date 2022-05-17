@@ -2,6 +2,7 @@
   - name: "Provision lab PCs"
     hosts: localhost
     tasks:
+
     - name: Enable guest account
       copy:
         # this is the file lightdm-settings works with
@@ -9,3 +10,8 @@
         content: |
           [Seat:*]
           allow-guest=true
+
+    - name: Copy default Firefox profile to guest session
+      copy:
+        dest: "/etc/guest-session/skel/.mozilla/firefox/"
+        src: firefox/
